@@ -1,0 +1,4 @@
+shopt -s nullglob
+for pdf in *{pdf,PDF} ; do
+    sips -s format png --out "${pdf%%.*}.png" "$pdf"
+done
