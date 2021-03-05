@@ -1,6 +1,6 @@
 # Measuring the environmental cost of metaheuristics
 
-This project aims at measuring the environmental cost of experimenting with metaheuristics in two typical scenarios: 1) single objective bound constrained optimization (SOBCO) and 2) evolutionary dynamic optimization (EDO). To this end we employed the framework **experiment-impact-tracker** proposed in https://github.com/Breakend/experiment-impact-tracker as follows (gray boxes):
+This project complements the conference paper "Adding environmental cost in the evaluation of metaheuristics", which aims to measure the environmental cost of experimenting with metaheuristics. In this regard, two typical scenarios were recreated 1) single objective constrained optimization (SOBCO) and 2) evolutionary dynamic optimization (EDO). In monitoring the indicators energy consumption, carbon emissions and social cost, we used the experiment-impact-tracer framework proposed in https://github.com/Breakend/experiment-impact-tracker as follows (gray boxes):
 
 <img src="flowchart.png" width="400">
 
