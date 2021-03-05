@@ -10,7 +10,7 @@ To implement the algorithms and problems, we relied on the DEAP framework [1].
 
 The experiments in SOBCO and EDO relied in the following parameter settings:
 
-<img src="settings.png" width="800">
+<img src="settings.png" width="700">
 
 As for the execution environment we used the following settings for both set of experiments:
 
